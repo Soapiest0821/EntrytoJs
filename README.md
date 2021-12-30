@@ -1,0 +1,2 @@
+# EntrytoJs
+make dutkyo ganzi

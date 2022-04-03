@@ -5,4 +5,5 @@
 * 둣 스크립트 연동은 지원하지 않습니다
 
 ```js
-node entjs.js```
+node entjs.js
+```
